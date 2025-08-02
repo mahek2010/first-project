@@ -1,5 +1,5 @@
 *{
-    margin: 4px;
+    margin: 0px;
     padding: 0;
     box-sizing: border-box;
 }
@@ -114,15 +114,22 @@ ul{
 }
 .buttons{
     display: flex;
-    margin-right: 20px;
+    margin-right: 10spx;
+    gap: 5px;
 }
 
-/* .loginbtn , .signinbtn {
-    margin-right: 20px;
-} */
+.loginbtn , .signinbtn {
+  
+    padding: 4px 19px;
+
+} 
 .logo img{
-   justify-content: start;
    margin-left: 0px;
+}
+
+nav{
+    padding: 10px 20px;
+   
 }
 
 }
