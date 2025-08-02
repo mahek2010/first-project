@@ -116,4 +116,11 @@ ul{
     display: flex;
 }
 
+.loginbtn , .signinbtn {
+    margin-right: 20px;
+}
+.logo img{
+   justify-content: start;
+}
+
 }
