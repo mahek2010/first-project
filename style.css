@@ -114,13 +114,15 @@ ul{
 }
 .buttons{
     display: flex;
-}
-
-.loginbtn , .signinbtn {
     margin-right: 20px;
 }
+
+/* .loginbtn , .signinbtn {
+    margin-right: 20px;
+} */
 .logo img{
    justify-content: start;
+   margin-left: 0px;
 }
 
 }
